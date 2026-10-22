@@ -1,0 +1,4 @@
+streamlit>=1.37
+pandas
+requests
+tomli; python_version < "3.11"
